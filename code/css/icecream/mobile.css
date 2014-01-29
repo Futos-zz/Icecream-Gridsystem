@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+	*[class*="-only"] { display: none; }
+	.mobile-only { display: block !important; }
+	
+	*[class*="grid-"] {
+		width: 98%;
+		max-width: none;
+		margin-left: 1% !important;
+		margin-right: 1% !important;
+		float: none;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	*[class*="-only"] { display: none; }
+	.mobile-only { display: block !important; }
+}
