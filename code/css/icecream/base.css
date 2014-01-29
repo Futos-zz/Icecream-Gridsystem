@@ -71,7 +71,7 @@ html[xmlns] .row {
 }
 
 /* Grid Columns for desktop */
-*[class*="grid_] {
+*[class*="grid_"] {
 	margin-left: 1%;
 	margin-right: 1%;
 	float: left;
