@@ -1,2 +1,5 @@
 /* Relax. No code here, just includes! */
-@include 
+@import url("icecream/base.css"),
+	url("icecream/desktop.css"),
+	url("icecream/tablet.css"),
+	url("icecream/mobile.css");
