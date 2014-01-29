@@ -1,3 +1,13 @@
+/*
+-*
+-* Icecream Gridsystem
+-* written by Dominik Biedebach
+-* http://github.com/tyskkk
+-*
+*/
+
+/* Package File for CSS. Imports all important CSS-Files of icecream so you don't have to! */
+
 /* Relax. No code here, just includes! */
 @import url("icecream/base.css"),
 	url("icecream/desktop.css"),
