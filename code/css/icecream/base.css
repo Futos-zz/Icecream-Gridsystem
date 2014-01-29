@@ -36,4 +36,36 @@ html[xmlns] .row {
 	height: 1%;
 }
 
+/* Media Queries for Responsive Design */
 
+/* Tablet Horizontal */
+@media screen and (max-width: 1024px) {
+	.grid-container {
+		width: 90%;
+		max-width: none;
+	}
+}
+
+/* Tablet Vertical */
+@media screen and (max-width: 768px) {
+	.grid-container {
+		width: 94%;
+		max-width: none;
+	}
+}
+
+/* Mobile Horizontal */
+@media screen and (max-width: 480px) {
+	.grid-container {
+		width: 100%;
+		max-width: none;
+	}
+}
+
+/* Mobile Vertical */
+@media screen and (max-width: 320px) {
+	.grid-container {
+		width: 100%;
+		max-width: none;
+	}
+}

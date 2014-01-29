@@ -1,0 +1,24 @@
+/* Desktop */
+@media screen and (min-width: 1025px) {
+	
+}
+
+/* Tablet Horizontal */
+@media screen and (max-width: 1024px) {
+
+}
+
+/* Tablet Vertical */
+@media screen and (max-width: 768px) {
+
+}
+
+/* Mobile Horizontal */
+@media screen and (max-width: 480px) {
+	
+}
+
+/* Mobile Vertical */
+@media screen and (max-width: 320px) {
+
+}

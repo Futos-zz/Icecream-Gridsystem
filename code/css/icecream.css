@@ -9,7 +9,10 @@
 /* Package File for CSS. Imports all important CSS-Files of icecream so you don't have to! */
 
 /* Relax. No code here, just includes! */
-@import url("icecream/base.css"),
-	url("icecream/desktop.css"),
-	url("icecream/tablet.css"),
-	url("icecream/mobile.css");
+@import url("icecream/base.css");
+@import url("icecream/desktop.css");
+@import url("icecream/tablet.css");
+@import url("icecream/mobile.css");
+
+/* Also including responsive layout file for customization without writing own media queries */
+@import url("layout.css");
