@@ -114,3 +114,11 @@ html[xmlns] .row {
 .pull_9 { margin-right: 77%; }
 .pull_10 { margin-right: 83.333%; }
 .pull_11 { margin-right: 91.666%; }
+
+/* Additional Content */
+.float.left { float: left; }
+.float.right { float: right; }
+.text.left { text-align: left; }
+.text.center { text-align: center; }
+.text.right { text-align: right; }
+.text.justify { text-align: justify; }
