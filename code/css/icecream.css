@@ -16,3 +16,7 @@
 
 /* Also including responsive layout file for customization without writing own media queries */
 @import url("layout.css");
+
+/* Rename those files or the code to import your css-files. This way you only need to import one css into your project */
+@import url("webfonts.css");
+@import url("style.css");
